@@ -1,5 +1,5 @@
 # Introduction
-I recently discovered that footnotes in ebooks, when formatted correctly, can be displayed at the bottom of the page, and not at the end of the book.^[if the ereader supports it]
+I recently discovered that footnotes in ebooks, when formatted correctly, can be displayed at the bottom of the page, and not at the end of the book (if the ereader supports it).
 
 However, most ebooks are not formatted correctly; books must be EPUB version 3 for this to work, and even then, they are frequently formatted free from conformity.
 
